@@ -1,0 +1,50 @@
+Liste de bugs MS1219
+
+
+- Mode positif/négatif
+- Github et traduction variables
+- Message IE
+- Message navigateur mobile
+- Pouvoir faire des tris par personnes, mots clef 
+- Couleur surlignage texte
+
+
+
+
+
+- Sujets fixed en haut
+- Mot de passe HTACCESS
+- Échelle
+- Fond à jour
+- Vérifier emplacement barre d'upload
+- Vérifier chargements
+- Bezier plafonne au bounds de la carte
+
+
+
+OK
+- Impossible de supprimer une image sur la page modifier
+- Placer fenêtre au click sur une remarque
+- Bug affichage
+- Invité en tant qu'auteur
+- Remplacement typo
+- Ajouter des sujets
+- Firefox, bugs formulaires
+- Afficher derniers commentaires en fonction des réponses
+- Fond noir zoom au lancement
+- Bouton ajouter qui se déplace
+- Remettre scroll à zéro au changement de page
+- Caler hauteur scroll au click sur un marqueur
+- Confirmation suppression
+- Bouton répondre ne s'affique qu'avec les commentaires avec références
+- Coller texte
+- Décalage du marqueur point en mode draw
+- Commentaires sans lieux ne remontent pas
+- Pouvoir Masquer les points
+- Pas de titres aux commentaires
+- Arriver sur les sujets
+- Afficher les numéros de pages
+- Légender les images
+- Réduire la diamètre  des cercles
+- Laisser gris qui s'allume partout dans les formulaires
+- Quand le sujet est supprimé, les marqueurs restent
