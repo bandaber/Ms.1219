@@ -53,17 +53,17 @@ Les pages de saisie/modification/réponse sont globalement identiques.
 ##Points/zones
 - Avant tout, il convient de préciser que les points ou les zones doivent être en nombre raisonnable sur le document afin d'en limiter l'engorgement et de ralentir le système. Dans un premier temps, ne vous limitez pas quant au nombre de points, mais faites attention à ce que les zones ne soient pas trop détaillées (essayez de limiter les zones à 10 sommets). Nous verrons à l'usage si le système se met à trop ralentir.
 - Pour ajouter un point, cliquer sur le bouton et placer un point sur le document en cliquant à l'endroit voulu.
-- Pour modifier un point, le faire simplement glisser sur le document
+- Pour modifier un point, le faire simplement glisser sur le document.
 - Pour ajouter une zone, cliquer sur le bouton puis placer chaque angle du polygone sur le document. Il est nécessaire de fermer la zone en cliquant sur le premier point tracé. Éviter de tracer des zones formant des polygones se repliant sur eux-mêmes (polygones complexes, voir ici : http://en.wikipedia.org/wiki/Complex_polygon)
-- Pour modifier une zone, faire glisser les sommets du polygone sur le document. Il est possible d'ajouter des points au polygone en tirant les poignées situées sur le milieu des côtés. Ces dernières créent alors de nouveaux cotés, pouvant eux-mêmes être subdivisés. Attention, il est très facile de créer des zones beaucoup de points avec ces poignées...
+- Pour modifier une zone, faire glisser les sommets du polygone sur le document. Il est possible d'ajouter des points au polygone en tirant les poignées situées sur le milieu des côtés. Ces dernières créent alors de nouveaux cotés, pouvant eux-mêmes être subdivisés. Attention, il est très facile de créer des zones comportant beaucoup de points avec ces poignées...
 - Pour supprimer un point ou une zone, cliquer sur le bouton *Supprimer* puis sur le point ou la zone.
 
 ##Contenu
 - Choisir un sujet avec le menu déroulant. Si aucun sujet ne correspond à votre commentaire, le créer en retournant à la page précédente et en allant à la page *Éditer les sujets*
 - Choisir un auteur avec le menu déroulant. Il est possible de saisir le nom d'un invité.
-- Saisir le texte dans le champ correspondant. Pour insérer des enrichissements et appels de notes en exposant, la meilleure méthode est de rentrer le texte à enrichir, de le sélectionner, puis de cliquer sur l'icône correspondant.
-- La création des appels de notes n'est pas automatique, il est nécessaire de saisir le chiffre correspondant à la note, puis de cliquer sur l'icône "exposant".
+- Saisir le texte dans le champ correspondant. Pour insérer des enrichissements, la meilleure méthode est de rentrer le texte à enrichir, de le sélectionner, puis de cliquer sur l'icône correspondant.
+- La création des appels de notes n'est pas automatique, il est nécessaire de saisir le chiffre correspondant à la note, puis de cliquer sur l'icône *exposant*.
 - Les enrichissements des notes fonctionnent de la même manière que ceux du texte.
-- L'envoi des images et des fichiers est automatique : glisser l'image ou le fichier dans la zone correspondante. Attendre jusqu'à l'apparition du champ légende pour les images
+- L'envoi des images et des fichiers est automatique : glisser l'image ou le fichier dans la zone correspondante. Attendre jusqu'à l'apparition du champ légende pour les images.
 - Les images sont à envoyer au format *jpg*, *png* ou *gif*, couleurs RVB, d'une taille raisonnable bien qu'il n'y ait pas de limitation (moins de 5mo semble correct).
-- Pour les fichiers, il n'y a pas de légende associée, merci d'envoyer des fichiers dont le nom soit explicite. Envoyer des fichiers d'une taille raisonnable bien qu'il n'y ait pas de limitation.
+- Pour les fichiers, il n'y a pas de légende associée : il est nécessaire d'envoyer des documents dont le nom soit explicite. Les fichiers doivent être d'une taille raisonnable bien qu'il n'y ait pas de limitation. Compresser en *zip* si nécessaire
