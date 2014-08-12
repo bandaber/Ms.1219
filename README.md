@@ -5,18 +5,18 @@ Outil de recherche partagée sur le livre d'heures de la famille Pontbriand
 http://www.e-k.fr/MS1219
 
 #Structure générale du contenu
-##Sujets
 
+##Sujets
 Les sujets regroupent un ensemble de commentaires. Ces sujets correspondent aux champs de recherches poursuivis par chacun (par exemple l'économie du livre dans le cas d'Olivier ou la couleur pour Isabelle). Ils ne sont toutefois pas directement rattachés à un contributeur en particulier et peuvent être alimentés par tout le monde.
 - Pour le moment, il n'y a que deux sujets tests portant des noms génériques. Avant de commenter, il faut donc que vous ajoutiez ou modifiiez un des sujets existants.
 - Merci de veiller à choisir des intitulés de sujets relativement concis.
 - La suppression d'un sujet entraîne la perte des commentaires qui y sont rattachés.
 
 ##Commentaires
-
 Les commentaires portent le contenu de vos remarques.
 - Ils possèdent obligatoirement un sujet, un auteur, un texte et accessoirement des points ou zones de références sur le document, des notes, des images ou des fichiers liés.
 - Le nombre de commentaires n'est pas limité.
+- Chaque ajouts ou modifications de commentaire est archivé sur le serveur. Ces archives ne sont pas consultables pour le moment.
 
 #Affichage
 
