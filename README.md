@@ -9,7 +9,7 @@ http://www.e-k.fr/MS1219
 
 Les sujets regroupent un ensemble de commentaires. Ces sujets correspondent aux champs de recherches poursuivis par chacun (par exemple l'économie du livre dans le cas d'Olivier ou la couleur pour Isabelle). Ils ne sont toutefois pas directement rattachés à un contributeur en particulier et peuvent être alimentés par tout le monde.
 - Pour le moment, il n'y a que deux sujets tests portant des noms génériques. Avant de commenter, il faut donc que vous ajoutiez ou modifiiez un des sujets existants.
-- Merci de veiller à choisi des intitulés de sujets relativement concis.
+- Merci de veiller à choisir des intitulés de sujets relativement concis.
 - La suppression d'un sujet entraîne la perte des commentaires qui y sont rattachés.
 
 ##Commentaires
