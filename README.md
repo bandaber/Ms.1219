@@ -22,7 +22,7 @@ Les sujets regroupent un ensemble de commentaires. Ces sujets correspondent aux 
 
 ##Écran principal
 - La partie de gauche présente le manuscrit dans son ensemble. Il est possible de zoomer dans l'image à la manière de google maps, c'est-à-dire avec la molette de la souris, ou à deux doigts avec un trackpad.
-- Sur le manuscrit sont placés des points et zones de références des commentaires sur le document (points et zones à contour blanc)
+- Des points et zones de références liées à des commentaires sont placés sur le manuscrit (points et zones à contour blanc)
 - Le premier bouton en haut à gauche permet d'afficher ou de masquer les références sur le document, afin d'y voir plus clair lorsque la page sera référencée avec un grand nombre de points.
 - Le deuxième bouton en haut à gauche permet d'afficher ou de masquer les numéros de pages du manuscrit. (*À ce propos, le foliotage inscrit aux coins hauts de chaque page commence à la 3e page du livre : ils n'ont pas compté la première garde. Pour rétablir une numérotation pertinente, j'ai numéroté la première garde comme la page 0.*)
 - Le survol d'un point ou d'une zone de référence sur le document permet de savoir à quel sujet ou commentaire est liée la référence.
