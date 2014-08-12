@@ -16,7 +16,7 @@ Les sujets regroupent un ensemble de commentaires. Ces sujets correspondent aux 
 Les commentaires portent le contenu de vos remarques.
 - Ils possèdent obligatoirement un sujet, un auteur, un texte et accessoirement des points ou zones de références sur le document, des notes, des images ou des fichiers liés.
 - Le nombre de commentaires n'est pas limité.
-- Chaque ajouts ou modifications de commentaire est archivé sur le serveur. Ces archives ne sont pas consultables pour le moment.
+- Chaque ajout ou modification est archivée sur le serveur. Ces archives ne sont pas consultables pour le moment.
 
 #Affichage
 
