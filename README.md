@@ -32,18 +32,18 @@ Les sujets regroupent un ensemble de commentaires. Ces sujets correspondent aux 
 - Le volet de droite est l'endroit où sont affichés, triés , ajoutés, modifiés, et supprimés les commentaires et sujets.
 - La partie haute donne à voir une courte description du projet (*Livre d'heures de la famille Pontbriand, circa 1490 convservé à la bibliothèque de Rennes — Les Champs Libres*). Il s'agit pour le moment d'une première mention mais qui est probablement incomplète ou erronée. Il faudrait parler à cet endroit du projet de recherche, etc. Quelqu'un pourrait-il se charger d'écrire cette mention pour que je l'intègre ?
 - Deux boutons permettent d'ajouter un commentaire et d'ajouter/éditer/supprimer les sujets.
-- Les sujets sont affichés par ordre croissant chronologique des modifications : le sujet le plus haut sera celui dont  l'ajout ou les modifications sont les plus récents.
+- Les sujets sont affichés par ordre décroissant chronologique des modifications : le sujet le plus haut sera celui dont  l'ajout ou les modifications sont les plus récents.
 - Le survol d'un sujet ne laisse apparentes que les références sur le document qui sont liées à ses commentaires.
 - Le volet de droite est défilant lorsqu'il est plus long que l'écran (à la molette ou à deux doigts sur le trackpad)
 - Le clic d'un sujet déplie l'ensemble des commentaires liés à ce sujet. Il n'est possible de déplier qu'un seul sujet à la fois.
 
 ##Volet de droite - commentaires
 
-- Les commentaires sont affichés par ordre croissant chronologique des modifications : le commentaire le plus haut sera celui dont  l'ajout ou les modifications sont les plus récents.
+- Les commentaires sont affichés par ordre décroissant chronologique des modifications : le commentaire le plus haut sera celui dont  l'ajout ou les modifications sont les plus récents.
 - Le survol d'un commentaire met en avant les références liées sur le document
 - Le clic dans le texte d'un commentaire affiche la meilleure vue possible pour l'ensemble des références liées sur le document
 - Trois boutons permettent de supprimer, modifier ou de répondre à un commentaire.
-- Les réponses de chaque commentaire sont affichées par ordre croissant chronologique des modifications : la réponse le plus haute sera celle dont l'ajout ou les modifications sont les plus récents.
+- Les réponses de chaque commentaire sont affichées par ordre décroissant chronologique des modifications : la réponse le plus haute sera celle dont l'ajout ou les modifications sont les plus récents.
 - Il n'est pas possible de répondre à une réponse, il faut répondre au commentaire pour y ajouter une réponse.
 
 
